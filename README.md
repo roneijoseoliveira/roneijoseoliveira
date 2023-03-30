@@ -11,6 +11,6 @@ Ola sou Ronei, sou programador Front End, atualmente estou aprendendo e criando 
 <a href="https://www.instagram.com/roneijoseoliveira"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <br>
 <br>
-[![Ronei stats](https://github-readme-stats.vercel.app/api?username=roneijoseoliveira)(https://github.com/roneijoseoliveira)]
+[![Ronei stats](https://github-readme-stats.vercel.app/api?username=roneijoseoliveira)](https://github.com/roneijoseoliveira)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roneijoseoliveira)](https://github.com/anuraghazra/github-readme-stats)
